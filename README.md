@@ -28,15 +28,15 @@ This was a challenging yet fun project which made me want to try building my own
 
 Please check out my other repositories - 
 
-https://github.com/sarahjq-s/edge-of-wander-event
+[Edge of Wander event](https://github.com/sarahjq-s/edge-of-wander-event)
 
-in progress home-country-homepage! 🔗
+[Home Country Page](https://github.com/sarahjq-s/home-country-page)
 
 I'd appreciate anyone who would be kind to review my code for me to learn from it and improve on my skills 🙏
 
 Thank you and Happy coding! SARAH 🍵
 
-
+---------------
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜

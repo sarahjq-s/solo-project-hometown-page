@@ -27,7 +27,9 @@ This was a challenging yet fun project which made me want to try building my own
 </ul>
 
 Please check out my other repositories - 
+
 https://github.com/sarahjq-s/edge-of-wander-event
+
 in progress home-country-homepage! 🔗
 
 I'd appreciate anyone who would be kind to review my code for me to learn from it and improve on my skills 🙏

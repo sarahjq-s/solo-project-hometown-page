@@ -3,6 +3,8 @@
 👋Hi everyone! I've completed my first Solo Project: Hometown Homepage at Scrimba. 🎉 This project was to showcase what I learned with building a website using HTML and CSS. 
 In this project, I was also introduced to Figma and how to utilize it to design a website.
 
+Live preview: [Solo Project: Hometown Page](https://classy-faloodeh-ed7574.netlify.app/)
+
 Requirements:
 <ul>
   <li>✅ use classes</li>

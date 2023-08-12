@@ -13,7 +13,9 @@ Requirements:
 
 While working on this project, I ran into some challenges with flexbox. 😵 I'm still struggling with the concept especially aligning elements horizontally vs vertically but I'm slowly understanding it more. The challenges I faced and how I overcame them:
 
-🎭 Activities section - I was challenged to make a three column section for the top 3 activities. I figured how to do it by making a div for each section and 
+🎭 Activities section - I was challenged to make a three column section for the top 3 activities. I figured how to do it by setting up a div for each activity and then placing them inside a div, flex container, to display and align them accordingly.
+
+🧑 Guide section - It was not hard to make the card but formatting the texts was 😓. I learned more about using the flex-direction: column and align the texts vertically. Once I figured that out, I used the justify-content to space out the texts. I tried out between the space-between and space-evenly and made final adjustements using the margin property.
 
 ## About Scrimba
 

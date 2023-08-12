@@ -1,0 +1,131 @@
+/**
+Palette: https://scrimba.com/links/hometown-palette
+RED: #E63946
+LIGHT: #F1FAEE
+AQUA: #A8DADC
+LIGHT BLUE: #457B9D
+DARK BLUE: #1D3557
+
+*/
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0 auto;
+    text-align: center;
+    font-family: Arial;
+
+}
+h3{
+    font-size: 24px;
+}
+h3, h4, p{
+    color: #1D3557;
+}
+
+img {
+    width: 100px;
+}
+/*HERO*/
+.hero-section{
+    width: 720px;
+    height: 343px;
+    background-image: url("images/torshov.jpg");
+    background-size: cover;
+    color: #FFFFFF;
+}
+
+.hero-section h1{
+    margin: 119px 248px 0;
+    padding: 2px 4px;
+    background: #1D3557;
+    width: 225px;
+    height: 42px;
+    left: 247px;
+    border-radius: 10px;
+}
+.hero-section h2{
+    margin: 11px auto;
+    padding: 6px 18px;
+    background: #457B9D;
+    width: 412px;
+    height: 40px;
+    left: 154px;
+    border-radius: 10px;
+    font-size: 18px;
+}
+/*ACTIVITIES*/
+.activities-section{
+    padding-top: 30px;
+    width: 720px;
+    height: 378px;
+    top: 343px;
+    background: #F1FAEE;
+}
+.activities-section h3{
+    margin: 12px;
+}
+
+.activities-section img{
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+.activities-section-top-3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px auto;
+ 
+}
+.activities-section h4, 
+.activities-section p{
+    margin-top: 10px;
+}
+.activities-section-show,
+.activities-section-picnic,
+.activities-section-sports{
+    margin: 40px 15px;
+    width: 200px;
+    height: 230px;
+}
+
+
+/*GUIDE*/
+.guide-section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 720px;
+    height: 400px;
+}
+.guide-section-card{
+    display: flex;
+    width: 425px;
+    height: 294px;
+    border-radius: 10px;
+    background: #A8DADC;
+    box-shadow: 0px 6px 0px 0px #1D3557;
+    padding-right: 10px;
+}
+.guide-section img{
+    margin: 20px 10px;
+    width: 180px;
+    height: 250px;
+    border-radius: 10px;
+
+}
+#guide-section-text{
+    margin: 25px auto 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+
+}
+#guide-section-text p{
+    font-style: italic;
+}

@@ -17,7 +17,7 @@ While working on this project, I ran into some challenges with flexbox. 😵 I'm
 
 🧑 Guide section - It was hard to format the text elements inside the card 😓. I learned more about using the flex-direction: column to align the elements vertically. Once I figured that out, I used the justify-content to space them out. I tried between the space-between and space-evenly and made final adjustments using the margin property.
 
-This was a challenging yet fun project which made me wanted to try building my own page with the stretch goals! 🙌 
+This was a challenging yet fun project which made me want to try building my own page with the stretch goals! 🙌 
 <ul>
   <li>make your own hometown or country homepage</li>
   <li>use a different color palette</li>
@@ -26,9 +26,11 @@ This was a challenging yet fun project which made me wanted to try building my o
   <li>add whole new section</li>
 </ul>
 
-Please check out my other repositories - I made my home-country-homepage! 🔗
+Please check out my other repositories - 
+https://github.com/sarahjq-s/edge-of-wander-event
+in progress home-country-homepage! 🔗
 
-I'd appreciate anyone who would be kind to review my code and learn from it so I can improve on my skills 🙏
+I'd appreciate anyone who would be kind to review my code for me to learn from it and improve on my skills 🙏
 
 Thank you and Happy coding! SARAH 🍵
 
